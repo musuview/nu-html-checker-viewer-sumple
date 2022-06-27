@@ -1,0 +1,189 @@
+{
+	"messages": [
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 31,
+			"lastColumn": 62,
+			"firstColumn": 1,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": "endif]-->\n<script type=\"text/javascript\" src=\"/common/js/adjustment.js\"></scri",
+			"hiliteStart": 10,
+			"hiliteLength": 62
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 188,
+			"lastColumn": 99,
+			"firstColumn": 5,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": "form>\n\t\t\t\t<script type=\"text/javascript\" src=\"//cse.google.com/brand?form=cse-search-box&lang=ja\" async></scrip",
+			"hiliteStart": 10,
+			"hiliteLength": 95
+		},
+		{
+			"type": "error",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 215,
+			"lastColumn": 34,
+			"firstColumn": 2,
+			"message": "Duplicate ID “mainImg”.",
+			"extract": "s_head\">\n\t<div id=\"mainImg\" class=\"type11\">\n\t\t<p>",
+			"hiliteStart": 10,
+			"hiliteLength": 33
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 210,
+			"lastColumn": 34,
+			"firstColumn": 2,
+			"subType": "warning",
+			"message": "The first occurrence of ID “mainImg” was here.",
+			"extract": "=\"hide\">\n\t<div id=\"mainImg\" class=\"type03\">\n\t\t<p>",
+			"hiliteStart": 10,
+			"hiliteLength": 33
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 238,
+			"lastColumn": 39,
+			"firstColumn": 9,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": ">\n\t\t\t\t\t\t\t\t<script type=\"text/javascript\">\n\t\t\t\t\t",
+			"hiliteStart": 10,
+			"hiliteLength": 31
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 243,
+			"lastColumn": 39,
+			"firstColumn": 9,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": ">\n\t\t\t\t\t\t\t\t<script type=\"text/javascript\">\n\t\t\t\t\t",
+			"hiliteStart": 10,
+			"hiliteLength": 31
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 257,
+			"lastColumn": 53,
+			"firstColumn": 23,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": " \t<script type=\"text/javascript\">\n\t\t\t\t\t",
+			"hiliteStart": 10,
+			"hiliteLength": 31
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 262,
+			"lastColumn": 39,
+			"firstColumn": 9,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": ">\n\t\t\t\t\t\t\t\t<script type=\"text/javascript\">\n\t\t\t\t\t",
+			"hiliteStart": 10,
+			"hiliteLength": 31
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 385,
+			"lastColumn": 53,
+			"firstColumn": 23,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": " \t<script type=\"text/javascript\">\n\t\t\t\t\t",
+			"hiliteStart": 10,
+			"hiliteLength": 31
+		},
+		{
+			"type": "info",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 390,
+			"lastColumn": 39,
+			"firstColumn": 9,
+			"subType": "warning",
+			"message": "The “type” attribute is unnecessary for JavaScript resources.",
+			"extract": ">\n\t\t\t\t\t\t\t\t<script type=\"text/javascript\">\n\t\t\t\t\t",
+			"hiliteStart": 10,
+			"hiliteLength": 31
+		},
+		{
+			"type": "error",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 1700,
+			"lastColumn": 345,
+			"firstColumn": 11,
+			"message": "The “scrolling” attribute on the “iframe” element is obsolete. Use CSS instead.",
+			"extract": "\t\t\t\t\t\t<li><iframe src=\"//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.titech.ac.jp%2F&amp;width=110&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:112px; height:21px;\" allowTransparency=\"true\"></ifra",
+			"hiliteStart": 10,
+			"hiliteLength": 335
+		},
+		{
+			"type": "error",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 1700,
+			"lastColumn": 345,
+			"firstColumn": 11,
+			"message": "The “frameborder” attribute on the “iframe” element is obsolete. Use CSS instead.",
+			"extract": "\t\t\t\t\t\t<li><iframe src=\"//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.titech.ac.jp%2F&amp;width=110&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:112px; height:21px;\" allowTransparency=\"true\"></ifra",
+			"hiliteStart": 10,
+			"hiliteLength": 335
+		},
+		{
+			"type": "error",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 1700,
+			"lastColumn": 345,
+			"firstColumn": 11,
+			"message": "The “allowtransparency” attribute on the “iframe” element is obsolete. Use CSS instead.",
+			"extract": "\t\t\t\t\t\t<li><iframe src=\"//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.titech.ac.jp%2F&amp;width=110&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:112px; height:21px;\" allowTransparency=\"true\"></ifra",
+			"hiliteStart": 10,
+			"hiliteLength": 335
+		},
+		{
+			"type": "error",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 1701,
+			"lastColumn": 346,
+			"firstColumn": 11,
+			"message": "The “scrolling ” attribute on the “iframe” element is obsolete. Use CSS instead.",
+			"extract": "\t\t\t\t\t\t<li><iframe src=\"https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.titech.ac.jp%2F&amp;layout=button&amp;size=small&amp;mobile_iframe=true&amp;width=61&amp;height=20&amp;appId\" width=\"70\" height=\"20\" style=\"border:none;overflow:hidden;\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></ifra",
+			"hiliteStart": 10,
+			"hiliteLength": 336
+		},
+		{
+			"type": "error",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 1701,
+			"lastColumn": 346,
+			"firstColumn": 11,
+			"message": "The “frameborder” attribute on the “iframe” element is obsolete. Use CSS instead.",
+			"extract": "\t\t\t\t\t\t<li><iframe src=\"https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.titech.ac.jp%2F&amp;layout=button&amp;size=small&amp;mobile_iframe=true&amp;width=61&amp;height=20&amp;appId\" width=\"70\" height=\"20\" style=\"border:none;overflow:hidden;\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></ifra",
+			"hiliteStart": 10,
+			"hiliteLength": 336
+		},
+		{
+			"type": "error",
+			"url": "file:/var/www/www/news/2022/063823.html",
+			"lastLine": 1701,
+			"lastColumn": 346,
+			"firstColumn": 11,
+			"message": "The “allowtransparency” attribute on the “iframe” element is obsolete. Use CSS instead.",
+			"extract": "\t\t\t\t\t\t<li><iframe src=\"https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.titech.ac.jp%2F&amp;layout=button&amp;size=small&amp;mobile_iframe=true&amp;width=61&amp;height=20&amp;appId\" width=\"70\" height=\"20\" style=\"border:none;overflow:hidden;\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></ifra",
+			"hiliteStart": 10,
+			"hiliteLength": 336
+		}
+	]
+}
